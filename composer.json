@@ -1,11 +1,11 @@
 {
-    "name": "dynamedia/postsdemo-theme",
-    "type": "october-theme",
+    "name": "dynamedia/wn-postsdemo-theme",
+    "type": "winter-theme",
     "description": "Demo theme for Dynamedia Posts plugin",
-    "homepage": "https://github.com/Dynamedia/oc-posts-demo-theme",
+    "homepage": "https://github.com/Dynamedia/wn-posts-demo-theme",
     "keywords": [
-        "october",
-        "october CMS",
+        "Winter",
+        "Winter CMS",
         "content marketing",
         "laravel",
         "blog",
@@ -22,9 +22,9 @@
     ],
     "require": {
         "composer/installers": "~1.0",
-        "rainlab/pages-plugin": "~1.0",
-        "rainlab/translate-plugin": "~1.0",
-        "dynamedia/posts-plugin": "~1.0"
+        "winter/wn-pages-plugin": "^2.0",
+        "winter/wn-translate-plugin": "^2.0",
+        "dynamedia/wn-posts-plugin": "~1.0"
     },
     "extra": {
         "installer-name": "postsdemo"

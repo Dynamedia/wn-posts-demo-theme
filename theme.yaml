@@ -1,5 +1,5 @@
 name: 'Posts Demo'
-description: 'Demo theme for oc-dynamedia-posts'
+description: 'Demo theme for wn-dynamedia-posts'
 author: 'Dynamedia (Rob Ballantyne)'
 homepage: 'https://dynamedia.uk'
 authorCode: Dynamedia
@@ -7,8 +7,8 @@ code: postsdemo
 parent: ''
 database: '0'
 require:
-    - RainLab.Translate
-    - RainLab.Pages
+    - Winter.Translate
+    - Winter.Pages
     - Dynamedia.Posts
 postsBackendCss: /themes/postsdemo/assets/css/dist/backend-posts.css
 translate: config/lang.yaml
