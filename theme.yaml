@@ -2,9 +2,8 @@ name: 'Posts Demo'
 description: 'Demo theme for wn-dynamedia-posts'
 author: 'Dynamedia (Rob Ballantyne)'
 homepage: 'https://dynamedia.uk'
-authorCode: Dynamedia
 code: postsdemo
-parent: ''
+authorCode: Dynamedia
 database: '0'
 require:
     - Winter.Translate
