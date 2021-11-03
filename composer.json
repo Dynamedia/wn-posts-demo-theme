@@ -27,6 +27,6 @@
         "dynamedia/wn-posts-plugin": "~1.0"
     },
     "extra": {
-        "installer-name": "postsdemo"
+        "installer-name": "dynamedia-postsdemo"
     }
 }
